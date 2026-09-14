@@ -9,3 +9,4 @@ data/*.json
 coverage/
 .vscode/
 .idea/
+data/wallets.raw.json
